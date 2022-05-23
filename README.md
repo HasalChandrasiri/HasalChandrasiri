@@ -5,9 +5,10 @@
   
 <br/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Hasal+Chandrasiri,+a+Data+Science+Undergraduate+of+SLIIT;Warmly+Welcome+You+To+My+GitHub+Account)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Hasal+Chandrasiri;+a+Data+Science+Undergraduate+of+SLIIT)](https://git.io/typing-svg)
 
-### <div align="center"> Hasal Chandrasiri, a Data Science Undergraduate at SLIIT 👨‍💻 </div>  
+<br/> 
+### <div align="center"> Warmly Welcome You To My GitHub Account 👨‍💻 </div>  
 <br/>   
 
 - 🔭 I’m currently working on a Data Warehousing and Business Intelligence project   
