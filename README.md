@@ -15,6 +15,9 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
+
+
+- 📫 How to reach me: hasalc@gmail.com
   
 
 <br/>  
