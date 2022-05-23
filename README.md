@@ -106,10 +106,10 @@
 <a href="https://github.com/HasalChandrasiri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/Hasal Chandrasiri" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hasal-chandrasiri-219469219?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtDS%2FHncYQLS%2FrHylvCxUeA%3D%3D" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/Hasal Chandrasiri" target="_blank">
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16617979/hasal-chandrasiri" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -147,4 +147,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
