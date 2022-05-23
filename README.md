@@ -131,7 +131,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-  
+[![trophy](https://github-profile-trophy.vercel.app/?username=HasalChandrasiri)](https://github.com/HasalChandrasiri/github-profile-trophy)  
 
 <br/>  
 
