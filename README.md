@@ -87,7 +87,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://camo.githubusercontent.com/1d52bb2de014d5551afc8c74dacbe350b85cc639ac6d9cba3350dca33655d4f2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d697432303232383537362673686f775f69636f6e733d74727565266c6f63616c653d656e" align="center" /></div>  
+<div align="center"><img src="<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=HasalChandrasiri &theme=dark &show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>" align="center" /></div>  
 
 
 <br/> 
