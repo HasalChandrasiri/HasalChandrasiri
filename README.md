@@ -80,6 +80,10 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HasalChandrasiri&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+## Mostly used languages
+<div align="center"><img src="https://camo.githubusercontent.com/318950f661474bc2251ad79874bd586a915258b2e7031c14a426fd062553b3a4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d617368616e5a6f79736126686964655f626f726465723d74727565266c61796f75743d636f6d70616374" align="center"
+/></div> 
+  
 <br/>  
 
 
@@ -92,7 +96,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HasalChandrasiri)](https://github.com/HasalChandrasiri/github-profile-trophy)  
 
-https://camo.githubusercontent.com/318950f661474bc2251ad79874bd586a915258b2e7031c14a426fd062553b3a4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d617368616e5a6f79736126686964655f626f726465723d74727565266c61796f75743d636f6d70616374
 
 <br/>  
 
