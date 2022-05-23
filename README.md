@@ -5,7 +5,9 @@
   
 <br/> 
 
-### <div align="center">I'm Hasal Chandrasiri, a Data Science Undergraduate at SLIIT 👨‍💻 </div>  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Hasal+Chandrasiri+;a+Data+Science+Undergraduate+of+SLIIT)](https://git.io/typing-svg)
+
+### <div align="center"> Hasal Chandrasiri, a Data Science Undergraduate at SLIIT 👨‍💻 </div>  
 <br/>   
 
 - 🔭 I’m currently working on a Data Warehousing and Business Intelligence project   
