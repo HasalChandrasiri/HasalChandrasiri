@@ -5,7 +5,7 @@
   
 <br/> 
 
-### <div align="center">I'm Hasal Chandrasiri, a Data Science Undergraduate of SLIIT 👨‍💻 </div>  
+### <div align="center">I'm Hasal Chandrasiri, a Data Science Undergraduate at SLIIT 👨‍💻 </div>  
 <br/>   
 
 - 🔭 I’m currently working on a Data Warehousing and Business Intelligence project   
