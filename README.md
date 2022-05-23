@@ -1,6 +1,6 @@
 ### Hi there, I'm Hasal Chandrasiri 👋
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 30%" />  
   
 
 ### <div align="center">I'm Hasal Chandrasiri, a Data Science Undergraduate of SLIIT 👨‍💻 </div>  
