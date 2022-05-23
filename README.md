@@ -91,9 +91,7 @@
  
  <br/> 
  
- ## Contribution Streak
- <div align="center"><img src="https://camo.githubusercontent.com/9cdbbff9642f1c3d6ee9322e812183f35f12b7812326f7eb42525a7caa615981/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d617368616e7a6f79736126" align="center"
-/></div> 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasalChandrasiri&theme=dark)](https://git.io/streak-stats)
 
 <br/>  
 
