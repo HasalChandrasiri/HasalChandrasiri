@@ -2,9 +2,9 @@
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 1%" />  
   
-
+<br/> 
 ### <div align="center">I'm Hasal Chandrasiri, a Data Science Undergraduate of SLIIT 👨‍💻 </div>  
-  
+<br/>   
 
 - 🔭 I’m currently working on a Data Warehousing and Business Intelligence project   
   
