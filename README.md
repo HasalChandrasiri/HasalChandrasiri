@@ -108,7 +108,7 @@
 
 <br/>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HasalChandrasiri)](https://github.com/HasalChandrasiri/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=HasalChandrasiri&theme=onedark)](https://github.com/HasalChandrasiri/github-profile-trophy)  
 
 
 <br/>  
