@@ -12,7 +12,7 @@
 ### <div align="center"> Warmly Welcome You To My GitHub Account 👨‍💻 </div>  
 <br/>   
 
-- 🔭 I’m currently working on a Data Warehousing and Business Intelligence project   
+- 🔭 I’m currently working on a IoT and Big Data Analytics project   
   
 
 - 🌱 I’m currently learning data visualization  
